@@ -1,0 +1,21 @@
+# Public presentation repository: keep development and production material private.
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+__pycache__/
+.venv/
+node_modules/
+.vscode/
+.idea/
+/data/
+/src/
+/frontend/
+/backend/
+/docs/
+/production/
+/qa/
